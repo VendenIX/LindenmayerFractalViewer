@@ -18,6 +18,7 @@
 4) Comment lancer le programme
 
 REQUIRED: Makefile
+  You need to install the library JavaFX and put the file on lib/
   sudo apt-get install makefile
 
 LAUNCH:
