@@ -36,7 +36,7 @@ public class Display2D extends JPanel {
 		        RenderingHints.KEY_ANTIALIASING,
 		        RenderingHints.VALUE_ANTIALIAS_ON);
 
-		g.setColor(Color.BLACK);
+		g.setColor(Color.WHITE);
 		g.fillRect(0,0, getWidth(), getHeight());
 		
 

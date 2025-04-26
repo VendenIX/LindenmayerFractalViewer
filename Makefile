@@ -1,4 +1,4 @@
-PATH_JAVAFX = lib/javafx-sdk-17.0.2/lib/
+PATH_JAVAFX = lib/javafx-sdk-17.0.15/lib/
 MODULES     = --add-modules javafx.controls,javafx.media,javafx.web,javafx.swing,javafx.graphics,javafx.base
 all:
 	@echo "\033[0;33m\e[1mCHARGEMENT, VEUILLEZ PATIENTER ..\033[0;32m"

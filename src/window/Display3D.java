@@ -151,11 +151,7 @@ public class Display3D extends JFXPanel {
                 }
 
                 //Colorimétrie du ciel
-                scene.setFill(new RadialGradient(
-                0, 0, 0, 0, 1, true, //sizing
-                CycleMethod.NO_CYCLE, //cycling
-                new Stop(1, Color.web("#000000")))
-                );
+                scene.setFill(Color.WHITE);
 
             }
         });

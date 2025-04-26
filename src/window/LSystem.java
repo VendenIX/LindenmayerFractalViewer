@@ -71,7 +71,7 @@ public class LSystem extends JFrame {
 		isChecked1 = false;
 		isChecked2 = false;
 
-		page.setBackground(awtColor.black);
+		page.setBackground(awtColor.white);
 		page.setLayout(new BorderLayout());
 
 		/*Gestion du menu (ou barre des tâches)*/
